@@ -6,6 +6,7 @@ $myemail = "elliharrington@smart-kids.org.uk";
 $name = check_input($_POST['inputName'], "Your Name");
 $email = check_input($_POST['inputEmail'], "Your E-mail Address");
 $subject = check_input($_POST['inputSubject'], "Message Subject");
+$phone = check_input($_POST['inputPhone'], "Message Phone");
 $message = check_input($_POST['inputMessage'], "Your Message");
 
 /* If e-mail is not valid show error message */
@@ -24,6 +25,7 @@ Someone has sent you a message using your contact form:
 Name: $name
 Email: $email
 Subject: $subject
+Phone: $phone
 
 Message:
 $message
