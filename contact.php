@@ -33,40 +33,18 @@
     <div class="navbar navbar-default navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
-          <a href="index.html" class="navbar-brand">Smartkids</a>
-          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-        </div>
-        <div class="navbar-collapse collapse" id="navbar-main">
-          <ul class="nav navbar-nav">
-            <li>
-              <a href="index.html">Home</a>
-            </li>
-            <li>
-              <a href="about.html">About</a>
-            </li>
-            <li>
-              <a href="contact.html">Contact Us</a>
-            </li>
-          </ul>
-
-          <ul class="nav navbar-nav navbar-right">
-            <li><a href="http://owenandrews.co.uk" target="_blank">Built by Owen Andrews</a></li>
-          </ul>
-
+        <?php include_once('navbar.php'); ?>
         </div>
       </div>
     </div>
+
 <div class="container">
         <div class="row">
     <div style="margin-top:20px">
         <div class="row">
           <div class="col-lg-6">
         <h2>Contact Us</h2>
-        <p class="lead">Thank you, your message was successfully sent! Would you like to send another?</p>
+        <p class="lead">Please use this form below to send us a message:</p>
       </div>
     </div>
       <div class="container">

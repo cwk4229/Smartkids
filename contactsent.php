@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <!-- saved from url=(0028)http://bootswatch.com/cosmo/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Smartkids, Wombourne</title>
+    <title>Smartkids, Wombourne - Contact Us</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
     <link rel="stylesheet" href="http://bootswatch.com/cosmo/bootstrap.css" media="screen">
@@ -34,52 +34,70 @@
       <div class="container">
         <div class="navbar-header">
           <a href="index.html" class="navbar-brand">Smartkids</a>
-          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-        </div>
-        <div class="navbar-collapse collapse" id="navbar-main">
-          <ul class="nav navbar-nav">
-            <li>
-              <a href="index.html">Home</a>
-            </li>
-            <li>
-              <a href="about.html">About</a>
-            </li>
-            <li>
-              <a href="contact.html">Contact Us</a>
-            </li>
-          </ul>
-
-          <ul class="nav navbar-nav navbar-right">
-            <li><a href="http://owenandrews.co.uk" target="_blank">Built by Owen Andrews</a></li>
-          </ul>
-
+          <?php include_once('navbar.php'); ?>
         </div>
       </div>
     </div>
-
-
-    <div class="container">
-
-      <div class="page-header" id="banner">
+<div class="container">
+        <div class="row">
+    <div style="margin-top:20px">
         <div class="row">
           <div class="col-lg-6">
-            <h1>Welcome!</h1>
-            <p class="lead">Smartkids is an Learning Centre based in Wombourne that boosts your childs learning power. We teach all subjects and any homework can be brought in to completed in your hour lesson.</p>
+        <h2>Contact Us</h2>
+        <p class="lead">Thank you, your message was successfully sent! Would you like to send another?</p>
+      </div>
+    </div>
+      <div class="container">
+        <div class="panel panel-default" style="margin:0 auto;width:500px">
+          <div class="panel-heading">
+            <h2 class="panel-title">Contact Form</h2>
           </div>
-          <div class="col-lg-6">
-            <div class="bsa well">
-            <h3>What the parents say:</h3>
-            <bold>Somebody's Dad -</bold><h6>Smartkids is a brilliant place if you want your child to excell at school and gain more skills!</h6>
-            </br>
-            <bold>Somebody's Dad2 -</bold><h6>Smartkids is a brilliant place if you want your child to excell at school and gain more skills!</h6>
-            </div>
+          <div class="panel-body">
+            <form name="contactform" method="post" action="mailer.php" class="form-horizontal" role="form">
+              <div class="form-group">
+                <label for="inputName" class="col-lg-2 control-label">Name</label>
+                <div class="col-lg-10">
+                  <input type="text" class="form-control" id="inputName" name="inputName" placeholder="Your Name">
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="inputEmail1" class="col-lg-2 control-label">Email</label>
+                <div class="col-lg-10">
+                  <input type="text" class="form-control" id="inputEmail" name="inputEmail" placeholder="Your Email">
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="inputSubject" class="col-lg-2 control-label">Subject</label>
+                <div class="col-lg-10">
+                  <input type="text" class="form-control" id="inputSubject" name="inputSubject" placeholder="Subject Message">
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="inputPhone" class="col-lg-2 control-label">Phone Number</label>
+                <div class="col-lg-10">
+                  <input type="text" class="form-control" id="inputPhone" name="inputPhone" placeholder="Your Phone Number">
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="inputPassword1" class="col-lg-2 control-label">Message</label>
+                <div class="col-lg-10">
+                  <textarea class="form-control" rows="4" id="inputMessage" name="inputMessage" placeholder="Your message..."></textarea>
+                </div>
+              </div>
+              <div class="form-group">
+                <div class="col-lg-offset-2 col-lg-10">
+                  <button type="submit" class="btn btn-default">
+                    Send Message
+                  </button>
+                </div>
+              </div>
+            </form>
+
           </div>
         </div>
-      </div>        
+      </div>
+    </div>
+  </div>
 
       <footer>
             <ul class="list-unstyled">
