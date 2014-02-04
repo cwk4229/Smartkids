@@ -33,7 +33,6 @@
     <div class="navbar navbar-default navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
-          <a href="index.html" class="navbar-brand">Smartkids</a>
           <?php include_once('navbar.php'); ?>
         </div>
       </div>

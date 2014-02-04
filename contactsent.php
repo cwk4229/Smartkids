@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <!-- saved from url=(0028)http://bootswatch.com/cosmo/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Smartkids, Wombourne - Contact Us</title>
@@ -33,7 +33,6 @@
     <div class="navbar navbar-default navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
-          <a href="index.html" class="navbar-brand">Smartkids</a>
           <?php include_once('navbar.php'); ?>
         </div>
       </div>
