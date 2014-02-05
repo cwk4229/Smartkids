@@ -64,6 +64,11 @@
        <td>n/a</td>
      </tr>
      <tr>
+       <td>Tolly Aqula</td>
+       <td>OCR Level 2 Award in IT User Skills (ITQ)</td>
+       <td>n/a</td>
+     </tr>
+     <tr>
        <td>&nbsp;</td>
        <td>&nbsp;</td>
        <td>&nbsp;</td>

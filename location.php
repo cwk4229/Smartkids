@@ -42,7 +42,7 @@
         <div class="row">
           <div class="col-lg-6">
         <h2>Location</h2>
-        <h4>Our address is:</h4>Smartkids,<br> Wombourne Lesiure Centre,<br> Ounsdale Road,<br> Wolverhampton,<br> WV5 8BJ
+        <h4>Our address is:</h4>Smartkids,<br> Wombourne Lesiure Centre,<br> Ounsdale Road,<br> Wolverhampton,<br> WV5 8BJ<br> 01902 896626
       </div>
     </div>
 
