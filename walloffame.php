@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!-- saved from url=(0028)http://bootswatch.com/cosmo/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Smartkids, Wombourne - About</title>
+    <title>Smartkids, Wombourne - Wall of Fame</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
     <link rel="stylesheet" href="http://bootswatch.com/cosmo/bootstrap.css" media="screen">
@@ -33,7 +33,7 @@
     <div class="navbar navbar-default navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
-         <?php include_once('navbar.php'); ?>
+          <?php include_once('navbar.php'); ?>
         </div>
       </div>
     </div>
@@ -43,37 +43,32 @@
 
       <div class="page-header" id="banner">
         <div class="row">
-            <h1>About Smartkids</h1>
-            <p class="lead">Smartkids is an Learning Centre based in Wombourne that boosts your childs learning power. We teach all subjects and any homework can be brought in to completed in your hour lesson.</p>
-            <div class="col-lg-6">
+          <div class="col-lg-6">
+            <h1>Wall of Fame</h1>
+            <p class="lead">People on this table have gained the GCSE Certificates which they have worked towards whilst they have been at Smartkids.</p>
           </div>
         </div>
-      </div>
-          <div class="container marketing">
-
-      <div class="row">
-        <div class="col-lg-4">
-          <img class="img-rounded" src="images/AllSubjects.jpg" alt="AllSubjects">
-          <h2>All Subjects</h2>
-          <p>Here at SmartKids we cover all subjects to make sure your child isn't just excelling in a specific subject but in every other. We like to focus on the subject that the child needs help with so that they can be outstanding in all areas.</p>
-          <p><a class="btn btn-success" href="#" role="button">View details &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
-          <img class="img-rounded" src="images/OCRGCSE.jpg" alt="OCRGCSE">
-          <h2>OCR ICT GCSE</h2>
-          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-          <p><a class="btn btn-success" href="#" role="button">View details &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
-          <img class="img-rounded" src="images/Software.jpg" alt="Software">
-          <h2>Software</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn btn-success" href="#" role="button">View details &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
-      </div><!-- /.row -->
-
-
-
+      </div> 
+         <table width="688" border="1" align="center">
+     <caption>
+       Wall of Fame
+       </caption>
+     <tr>
+       <th scope="col"><div align="center">Name</div></th>
+       <th scope="col"><div align="center">Award</div></th>
+       <th scope="col"><div align="center">Units</div></th>
+     </tr>
+     <tr>
+       <td>Owen Andrews</td>
+       <td>OCR Level 2 Award in IT User Skills (ITQ)</td>
+       <td>n/a</td>
+     </tr>
+     <tr>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>&nbsp;</td>
+     </tr>
+   </table>
       <footer>
             <ul class="list-unstyled">
               <li class="pull-right"><a href="#top">Back to top</a></li>
@@ -103,3 +98,4 @@
   
 </body></html>
 
+</body></html>

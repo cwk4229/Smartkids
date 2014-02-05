@@ -46,13 +46,9 @@
       </div>
     </div>
 
-    <div class="container">
-        <div class="page-header" id="banner">
         <div class="panel panel-default" style="margin:0 auto;width:600px">
         <iframe src="https://mapsengine.google.com/map/u/0/embed?mid=zgotbEtkMLJ0.kVU-XYbGL5tw" width="640" height="480"></iframe>
       </div>
-    </div>
-  </div>
       <footer>
             <ul class="list-unstyled">
               <li class="pull-right"><a href="#top">Back to top</a></li>
