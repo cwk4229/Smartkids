@@ -29,7 +29,7 @@
   <script type="text/javascript" async src="./index_files/bsa.js" class="disconnect-collapsed"></script></head>
   <body style="">
     <script src="./index_files/bsa(1).js"></script>
-        <div class="navbar navbar-default navbar-fixed-top">
+        <div class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
         <?php include_once('navbar.php'); ?>
@@ -40,12 +40,27 @@
         <div class="row">
     <div style="margin-top:20px">
         <div class="row">
-          <div class="col-lg-6">
+          <div class="col-lg-4">
         <h2>Location</h2>
-        <h4>Our address is:</h4>Smartkids,<br> Wombourne Lesiure Centre,<br> Ounsdale Road,<br> Wolverhampton,<br> WV5 8BJ<br> 01902 896626
+         <div class="panel panel-danger">
+              <div class="panel-heading">
+                <h3 class="panel-title">Our Address</h3>
+              </div>
+              <div class="panel-body">
+              Smartkids,<br> Wombourne Lesiure Centre,<br> Ounsdale Road,<br> Wolverhampton,<br> WV5 8BJ<br> 01902 896626<br>
+              </div>
+            </div>
       </div>
     </div>
-
+            <div class="row">
+          <div class="col-lg-4">        
+            <div class="panel panel-default">
+              <div class="panel-body">
+                Smartkids is based inside Wombourne Lesuire Centre, where you can use the Pool, Gym and many other facilties whilst you wait for your child to finish.
+              </div>
+            </div>
+          </div>
+        </div>
         <div class="panel panel-default" style="margin:0 auto;width:600px">
         <iframe src="https://mapsengine.google.com/map/u/0/embed?mid=zgotbEtkMLJ0.kVU-XYbGL5tw" width="640" height="480"></iframe>
       </div>

@@ -30,7 +30,7 @@
   <body style="">
     <script src="./index_files/bsa(1).js"></script>
 
-    <div class="navbar navbar-default navbar-fixed-top">
+    <div class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
           <?php include_once('navbar.php'); ?>
@@ -49,31 +49,46 @@
           </div>
         </div>
       </div> 
-         <table width="688" border="1" align="center">
-     <caption>
-       Wall of Fame
-       </caption>
-     <tr>
-       <th scope="col"><div align="center">Name</div></th>
-       <th scope="col"><div align="center">Award</div></th>
-       <th scope="col"><div align="center">Units</div></th>
-     </tr>
-     <tr>
-       <td>Owen Andrews</td>
-       <td>OCR Level 2 Award in IT User Skills (ITQ)</td>
-       <td>n/a</td>
-     </tr>
-     <tr>
-       <td>Tolly Aqula</td>
-       <td>OCR Level 2 Award in IT User Skills (ITQ)</td>
-       <td>n/a</td>
-     </tr>
-     <tr>
-       <td>&nbsp;</td>
-       <td>&nbsp;</td>
-       <td>&nbsp;</td>
-     </tr>
-   </table>
+<div class="bs-example table-responsive">
+              <table class="table table-striped table-hover ">
+                <tr>
+                  <th>Name</th>
+                  <th>Award</th>
+                  <th>Units</th>
+                </tr>
+                <tr>
+                  <td>Owen Andrews</td>
+                  <td>OCR Level 2 Award in IT User Skills (ITQ)</td>
+                  <td>n/a</td>
+                </tr>
+                <tr>
+                  <td>Tolly Aqula</td>
+                  <td>OCR Level 2 Award in IT User Skills (ITQ)</td>
+                  <td>n/a</td>
+                </tr>
+                <tr>
+                  <td>Column content</td>
+                  <td>Column content</td>
+                  <td>Column content</td>
+                </tr>
+                  <td>Column content</td>
+                  <td>Column content</td>
+                  <td>Column content</td>
+                </tr>
+                  <td>Column content</td>
+                  <td>Column content</td>
+                  <td>Column content</td>
+                </tr>
+                  <td>Column content</td>
+                  <td>Column content</td>
+                  <td>Column content</td>
+                </tr>
+                  <td>Column content</td>
+                  <td>Column content</td>
+                  <td>Column content</td>
+                </tr>
+              </table>
+            </div>
       <footer>
             <ul class="list-unstyled">
               <li class="pull-right"><a href="#top">Back to top</a></li>

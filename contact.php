@@ -30,7 +30,7 @@
   <body style="">
     <script src="./index_files/bsa(1).js"></script>
 
-    <div class="navbar navbar-default navbar-fixed-top">
+    <div class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
         <?php include_once('navbar.php'); ?>
