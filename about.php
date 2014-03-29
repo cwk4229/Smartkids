@@ -44,7 +44,7 @@
       <div class="page-header" id="banner">
         <div class="row">
             <h1>About Smartkids</h1>
-            <p class="lead">Smartkids is an Learning Centre based in Wombourne that boosts your childs learning power. We teach all subjects and any homework can be brought in to completed in your hour lesson.</p>
+            
             <div class="col-lg-6">
           </div>
         </div>
