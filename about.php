@@ -60,7 +60,7 @@
         <div class="col-lg-4">
           <img class="img-rounded" src="images/OCRGCSE.jpg" alt="OCRGCSE">
           <h2>Computer Literacy</h2>
-          <p>If we explain a bit more about computers it will help you to see the sort of progress your child will make with us. To make absolutely sure our students are completely computer literate, we cover ten-finger touch-typing and all the major computer applications.</p>
+          <p>If we explain a bit more about computers it will help you to see the sort of progress your child will make with us. To make absolutely sure our students are completely computer literate, we cover ten-finger touch-typing and all the major computer applications. Mastering all these applications will put your child streets ahead of classmates in school. Perhaps even further ahead than you can imagine. Because behind these applications lies the really profound change that computers are bringing about in education.</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-rounded" src="images/Software.jpg" alt="Software">
