@@ -57,7 +57,7 @@
             <h6>"Thank you for everything. Thank you for never giving up on me!"</h6>
             </br>
             <h3>What some parents have said:</h3>
-            <h6>"Thank you for all your help with Joseph. I would like to say thank you. Your support has been invaluable. I know he came to you for IT But you have been fantastic helping him with his school work."</h6>
+            <h6>"Thank you for all your help with Joseph. I would like to say thank you. Your support has been invaluable. I know he came to you for IT <u>But<u> you have been fantastic helping him with his school work."</h6>
             </br>
             <h6>"Thank you for teaching Tara and helping her to gain her Level 2 Diploma. We are so proud of her, and for all your support."</h6>
             </div>
