@@ -55,17 +55,17 @@
         <div class="col-lg-4">
           <img class="img-rounded" src="images/AllSubjects.jpg" alt="AllSubjects">
           <h2>All Subjects</h2>
-          <p>Here at SmartKids we cover all subjects to make sure your child isn't just excelling in a specific subject but in every other. We like to focus on the subject that the child needs help with so that they can be outstanding in all areas.</p>
+          <p>Here at SmartKids we cover all subjects to make sure your child isn't just excelling in a specific subject but in all of them. We like to focus on the subject that your child needs help with.</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-rounded" src="images/OCRGCSE.jpg" alt="OCRGCSE">
-          <h2>OCR ICT GCSE</h2>
-          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+          <h2>OCR IT User Skills (ITQ 2009)</h2>
+          <p></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-rounded" src="images/Software.jpg" alt="Software">
           <h2>Software</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+          <p></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
 
