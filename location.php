@@ -50,6 +50,14 @@
               Smartkids,<br> Wombourne Lesiure Centre,<br> Ounsdale Road,<br> Wolverhampton,<br> WV5 8BJ<br> 01902 896626<br>
               </div>
             </div>
+            <div class="panel panel-danger">
+              <div class="panel-heading">
+                <h3 class="panel-title">Phone Elli on one of these numbers:</h3>
+              </div>
+              <div class="panel-body">
+              Centre: 01902 896626 <br> Office: 01902 338258 <br> Mobile: 07795 116775
+              </div>
+            </div>
       </div>
     </div>
             <div class="row">
