@@ -54,18 +54,18 @@
       <div class="row">
         <div class="col-lg-4">
           <img class="img-rounded" src="images/AllSubjects.jpg" alt="AllSubjects">
-          <h2>All Subjects</h2>
-          <p>Here at SmartKids we cover all subjects to make sure your child isn't just excelling in a specific subject but in all of them. We like to focus on the subject that your child needs help with.</p>
+          <h2>Intellectual Ability</h2>
+          <p>We use computers and national curriculum subjects to develop the core intellectual abillites of: Literacy, Numeracy, Thiking Skills and Computer Literacy. Your child needs to master these abilites in order to understand, to organise and use knowledge and infomation successfully.</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-rounded" src="images/OCRGCSE.jpg" alt="OCRGCSE">
-          <h2>OCR IT User Skills (ITQ 2009)</h2>
-          <p></p>
+          <h2>Computer Literacy</h2>
+          <p>If we explain a bit more about computers it will help you to see the sort of progress your child will make with us. To make absolutely sure our students are completely computer literate, we cover ten-finger touch-typing and all the major computer applications.</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-rounded" src="images/Software.jpg" alt="Software">
-          <h2>Software</h2>
-          <p></p>
+          <h2>Emotional Ability</h2>
+          <p>Of course intellectual abilites alone are not enough. That's why we take care of the emotional side of learning as well. We will teach your child how to: Stick at learning, Recover from setback, Handle distractions, Overcome anxiety and lack of conidence. All this is a vital part of learning how to learn... A vital part of becoming a truly independent learner.</p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
 
