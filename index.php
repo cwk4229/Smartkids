@@ -49,10 +49,15 @@
           </div>
           <div class="col-lg-6">
             <div class="bsa well">
-            <h3>What the parents say:</h3>
-            <bold>Somebody's Dad -</bold><h6>Smartkids is a brilliant place if you want your child to excell at school and gain more skills!</h6>
+            <h3>What some students have said:</h3>
+            <h6>"Thank you for teaching me my computer skills!"</h6>
             </br>
-            <bold>Somebody's Dad2 -</bold><h6>Smartkids is a brilliant place if you want your child to excell at school and gain more skills!</h6>
+            <h6>"Thank you for everything. Thank you for never giving up on me!"</h6>
+            </br>
+            <h3>What some parents have said:</h3>
+            <h6>"Thank you for all your help with Joseph. I would like to say thank you. Your support has been invaluable. I know he came to you for IT But you have been fantastic helping him with his school work."</h6>
+            </br>
+            <h6>"Thank you for teaching Tara and helping her to gain her Level 2 Diploma. We are so proud of her, and for all your support."</h6>
             </div>
           </div>
         </div>
