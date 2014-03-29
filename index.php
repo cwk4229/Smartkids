@@ -45,7 +45,9 @@
         <div class="row">
           <div class="col-lg-6">
             <h1>Welcome!</h1>
-            <p class="lead">Smartkids is an Learning Centre based in Wombourne that boosts your childs learning power. We teach all subjects and any homework can be brought in to completed in your hour lesson.</p>
+            <p class="lead"><b>What do we do?</b>We create truly independent learners. No tricks. No gimmicks. We simply teach children how to learn - properly.
+            </br><b>How do we do it></b>Through 'personalised tution'... a powerful combination of computers, expert teachers, trained assistants and very small groups of youngsters aged 4-14 years. Each child works at their own computer and follows their own personal learning pathway.
+            </br><b>How well do we do it?</b>One example will show you... We regularly enter our 8 and 9 year olds for GCSE level qualifications in computer literacy - qualifications they wouldn't usually take until they were 16 years or older. Yet we achieve a 100 per cent. And with absolutley no exam nerves either! </p>
           </div>
           <div class="col-lg-6">
             <div class="bsa well">
