@@ -44,7 +44,7 @@
       <div class="page-header" id="banner">
         <div class="row">
           <div class="col-lg-6">
-          <h1>Welcome!</h1>
+          <h1>Welcome!</h1> line spaces
           <p class="lead">Smartkids is a Multimedia Learning Centre based in Wombourne. We boosts your childs learning power. We teach all subjects and any homework can be brought in to completed in your hour lesson.</p>
             <b>What do we do?</b> We create truly independent learners. No tricks. No gimmicks. We simply teach children how to learn - properly.
             </br><b>How do we do it?</b> Through 'personalised tution'... a powerful combination of computers, expert teachers, trained assistants and very small groups of youngsters aged 4-14 years. Each child works at their own computer and follows their own personal learning pathway.
