@@ -20,9 +20,6 @@
               <a href="gallery.php">Gallery</a>
             </li>
             <li>
-              <a href="walloffame.php">Wall of Fame</a>
-            </li>
-            <li>
               <a href="location.php">Location</a>
             </li>
             <li>
