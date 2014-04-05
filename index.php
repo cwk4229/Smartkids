@@ -50,10 +50,10 @@
             </br><b>How do we do it?</b> Through 'personalised tution'... a powerful combination of computers, expert teachers, trained assistants and very small groups of youngsters aged 4-14 years. Each child works at their own computer and follows their own personal learning pathway.
             </br><b>How well do we do it?</b> One example will show you... We regularly enter our 8 and 9 year olds for GCSE level qualifications in computer literacy - qualifications they wouldn't usually take until they were 16 years or older. Yet we achieve a 100 per cent pass rate. And with absolutley no exam nerves either! </p><img class="img-rounded" src="images/OCRGCSE.jpg" alt="OCRGCSE">
              </div>
-
-          <div class="col-lg-6">
-            <div class="bsa well">
-            <h3>What some students have said:</h3>
+             <div class="col-lg-6" style="padding: 15px 15px 0 15px;">
+            <div class="well sponsor">
+                <h3 style="margin-bottom: 0.4em;">What some of the students have said:</h3>
+                <div class="clearfix">
             <h6>"Thank you for teaching me my computer skills!"</h6>
             </br>
             <h6>"Thank you for everything. Thank you for never giving up on me!"</h6>
@@ -62,10 +62,12 @@
             <h6>"Thank you for all your help with Joseph. I would like to say thank you. Your support has been invaluable. I know he came to you for IT <u>But</u> you have been fantastic helping him with his school work."</h6>
             </br>
             <h6>"Thank you for teaching Tara and helping her to gain her Level 2 Diploma. We are so proud of her, and for all your support."</h6>
+                </div>
+              </a>
             </div>
-          </div>
+          </div> 
         </div>
-      </div>        
+      </div>    
 
       <footer>
             <ul class="list-unstyled">
