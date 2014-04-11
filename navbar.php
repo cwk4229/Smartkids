@@ -17,7 +17,7 @@
               <a href="classes.php">Class Times</a>
             </li>
             <li>
-              <a href="gallery.php">Gallery</a>
+              <a href="testimonials.php">Testimonials</a>
             </li>
             <li>
               <a href="location.php">Location</a>
