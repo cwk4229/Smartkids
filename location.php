@@ -52,7 +52,7 @@
           <div class="col-lg-4">        
             <div class="panel panel-default">
               <div class="panel-body">
-                Smartkids is based inside Wombourne Lesuire Centre, where you can use the Pool, Gym and many other facilties while you wait for your child to finish.
+                Smartkids is based inside Wombourne Leisure Centre, where you can use the Pool, Gym and many other facilties while you wait for your child to finish.
               </div>
             </div>
           </div>
