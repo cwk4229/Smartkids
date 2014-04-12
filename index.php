@@ -32,7 +32,7 @@
       <div class="page-header" id="banner">
         <div class="row">
           <h1>Welcome!</h1>
-          <p class="lead">Smartkids is a Multimedia Learning Centre based in Wombourne. We boosts your childs learning power. We teach all subjects and any homework can be brought in to completed in your hour lesson.</p>
+          <p class="lead">Smartkids is a Multimedia Learning Centre based in Wombourne.</p>
             </div>
           </div>
           <div class="panel panel-default">
