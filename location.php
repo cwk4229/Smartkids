@@ -29,7 +29,7 @@
     <div style="margin-top:20px">
         <div class="row">
           <div class="col-lg-4">
-        <h2>Location</h2>
+        <h1>Location</h1>
          <div class="panel panel-danger">
               <div class="panel-heading">
                 <h3 class="panel-title">Our Address</h3>
