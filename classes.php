@@ -59,10 +59,10 @@
                     <td>3pm-4pm, 4pm-5pm</td>
                   </tr>
                     <td>Friday</td>
-                    <td>3pm-4pm, 4pm-5pm</td>
+                    <td>3pm-4pm, 4pm-5pm, 5pm-6pm</td>
                   </tr>
                     <td>Saturday</td>
-                    <td>3pm-4pm, 4pm-5pm</td>
+                    <td>9am-10am, 10am-11am, 11am-12am, 12am-1pm, 2pm-3pm, 3pm-4pm, 4pm-5pm</td>
                   </tr>
                 </tbody>
               </table> 

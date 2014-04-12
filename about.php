@@ -38,7 +38,8 @@
         </div>
       </div>
           <div class="container marketing">
-
+          <div class="panel panel-default">
+  <div class="panel-body">
       <div class="row">
         <div class="col-lg-4">
           <img class="img-rounded" src="images/AllSubjects.jpg" alt="AllSubjects">
@@ -56,6 +57,8 @@
           <p>Of course intellectual abilites alone are not enough. That's why we take care of the emotional side of learning as well. We will teach your child how to: Stick at learning, Recover from setback, Handle distractions, Overcome anxiety and lack of conidence. All this is a vital part of learning how to learn... A vital part of becoming a truly independent learner.</p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
+    </div>
+  </div>
 
 
 
