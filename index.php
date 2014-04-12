@@ -44,12 +44,12 @@
           <img class="img-rounded" src="images/learning.jpg" alt="Learning">   
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <h2>How de we do it?</h2>
+          <h2>How do we do it?</h2>
           <p>Through 'personalised tuition'... a powerful combination of computers, expert teachers, trained assistants and very small groups of youngsters aged 4-14 years. Each child works at their own computer and follows their own personal learning pathway.</p>
           <img class="img-rounded" src="images/tuition.jpg" alt="tuition">  
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <h2>Emotional Ability</h2>
+          <h2>How well do we do it?y</h2>
           <p>One example will show you... We regularly enter our 8 and 9 year olds for GCSE level qualifications in computer literacy - qualifications they wouldn't usually take until they were 16 years or older. Yet we achieve a 100 per cent pass rate. And with absolutley no exam nerves either!</p>
           <img class="img-rounded" src="images/OCRGCSE.jpg" alt="OCRGCSE">          
         </div><!-- /.col-lg-4 -->
