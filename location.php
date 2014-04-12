@@ -35,7 +35,7 @@
                 <h3 class="panel-title">Our Address</h3>
               </div>
               <div class="panel-body">
-              Smartkids,<br> Wombourne Lesiure Centre,<br> Ounsdale Road,<br> Wolverhampton,<br> WV5 8BJ<br> 01902 896626<br>
+              Smartkids,<br> Wombourne Leisure Centre,<br> Ounsdale Road,<br> Wolverhampton,<br> WV5 8BJ<br> 01902 896626<br>
               </div>
             </div>
             <div class="panel panel-danger">
@@ -52,7 +52,7 @@
           <div class="col-lg-4">        
             <div class="panel panel-default">
               <div class="panel-body">
-                Smartkids is based inside Wombourne Lesuire Centre, where you can use the Pool, Gym and many other facilties whilst you wait for your child to finish.
+                Smartkids is based inside Wombourne Lesuire Centre, where you can use the Pool, Gym and many other facilties while you wait for your child to finish.
               </div>
             </div>
           </div>
