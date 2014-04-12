@@ -31,7 +31,7 @@
     <div style="margin-top:20px">
         <div class="row">
           <div class="col-lg-6">
-        <h2>Contact Us</h2>
+        <h1>Contact Us</h1>
         <p class="lead">Please use this form below to send us a message:</p>
       </div>
     </div>
