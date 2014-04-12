@@ -44,7 +44,7 @@
         <div class="col-lg-4">
           <img class="img-rounded" src="images/AllSubjects.jpg" alt="AllSubjects">
           <h2>Intellectual Ability</h2>
-          <p>We use computers and national curriculum subjects to develop the core intellectual abillites of: Literacy, Numeracy, Thiking Skills and Computer Literacy. Your child needs to master these abilites in order to understand, to organise and use knowledge and infomation successfully.</p>
+          <p>We use computers and national curriculum subjects to develop the core intellectual abilities of: Literacy, Numeracy, Thiking Skills and Computer Literacy. Your child needs to master these abilites in order to understand, to organise and use knowledge and infomation successfully.</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-rounded" src="images/OCRGCSE.jpg" alt="OCRGCSE">
@@ -54,7 +54,14 @@
         <div class="col-lg-4">
           <img class="img-rounded" src="images/Software.jpg" alt="Software">
           <h2>Emotional Ability</h2>
-          <p>Of course intellectual abilites alone are not enough. That's why we take care of the emotional side of learning as well. We will teach your child how to: Stick at learning, Recover from setback, Handle distractions, Overcome anxiety and lack of conidence. All this is a vital part of learning how to learn... A vital part of becoming a truly independent learner.</p>
+          <p>Of course intellectual abilites alone are not enough. That's why we take care of the emotional side of learning as well. We will teach your child how to:
+          <ul>
+          <li>Stick at learning</li>
+          <li>Recover from setbacks</li>
+          <li>Handle distractions</li>
+          <li>Overcome anxiety and lack of confidence</li>
+          </ul>
+          All this is a vital part of learning how to learn... A vital part of becoming a truly independent learner.</p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
     </div>
