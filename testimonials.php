@@ -45,7 +45,7 @@
             <div class="bs-component">
               <blockquote>
                 <p>"Thank you for all your help with Joseph. I would like to say thank you. Your support has been invaluable. I know he came to your for ICT <u>but</u> you have been fantastic helping him with his school work too."</p>
-                <small>Person who said it</small>
+                <small>Jean</small>
               </blockquote>
             </div>
           </div>
@@ -53,7 +53,7 @@
             <div class="bs-component">
               <blockquote class="pull-right">
                 <p>"Thank you for teaching Tara and helping her to gain her Level 2 Diploma. We are so proud of her, and for all your support."</p>
-                <small>Person who said it</small>
+                <small>Bev, Manjit and Jasmine</small>
               </blockquote>
             </div>
           </div>
@@ -72,7 +72,7 @@
             <div class="bs-component">
               <blockquote>
                 <p>"Thank you for everything. Thank you for never giving up on me!"</p>
-                <small>Person who said it</small>
+                <small>Davina</small>
               </blockquote>
             </div>
           </div>
@@ -80,7 +80,7 @@
             <div class="bs-component">
               <blockquote class="pull-right">
                 <p>"Thank you for teaching me my computer skills!"</p>
-                <small>Person who said it</small>
+                <small>Alex</small>
               </blockquote>
             </div>
           </div>
